@@ -1,1 +1,1 @@
-A simples CRUD
+A simple CRUD
